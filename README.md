@@ -4,7 +4,7 @@ I'm teaching a modeling class. I wanted to introduce the concept of an inductive
 
 This activity is inspired by a bunch of papers on iterated learning experiments. This one is a simple categorization experiment. The basic idea is to have one person categorize the objects based on limited information, and then transmit their categorization to the next person, with some loss of information along the way. This repeats for several people. If you make several of these transmission chains in the classroom, they will probably all converge on one or two solutions to the problem, regardless of the initial starting conditions.
 
-The HTML doc generates a (noisy) 5 x 5 space of squares that can be categorized. I printed out several sets of these and cut them into individual pieces of paper. 
+The HTML doc generates a (noisy) 5 x 5 space of squares that can be categorized. [Link to live version here](). I printed out several sets of these and cut them into individual pieces of paper. 
 
 From there, create initial categories by dividing the cards into two piles. This could be done randomly, or you could pick something less intuitive, like very dark and very light in one category, medium shades in the other. I suspect that it doesn't matter too much.
 
